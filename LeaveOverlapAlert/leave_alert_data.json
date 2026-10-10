@@ -1,0 +1,87 @@
+{
+    "faculty_groups": {
+        "Rahul Sharma": [
+            "CSE-A",
+            "CSE-B"
+        ],
+        "Priya Verma": [
+            "CSE-A"
+        ],
+        "Aman Kumar": [
+            "CSE-B"
+        ],
+        "Neha Singh": [
+            "CSE-A",
+            "CSE-C"
+        ],
+        "Arjun Patel": [
+            "CSE-C"
+        ],
+        "tiya": [
+            "CSE-A",
+            "CSE-B"
+        ],
+        "tia": [
+            "CSE-B"
+        ],
+        "shubhra": [
+            "AL",
+            "CSE-C"
+        ],
+        "Riya": [
+            "AI",
+            "CSE-A"
+        ]
+    },
+    "minimum_required": {
+        "CSE-A": 3,
+        "CSE-B": 2,
+        "CSE-C": 2,
+        "AL": 1,
+        "AI": 1
+    },
+    "leaves": [
+        {
+            "faculty": "tiya",
+            "group": "CSE-A",
+            "start_date": "2026-10-23",
+            "end_date": "2026-11-10"
+        },
+        {
+            "faculty": "Aman Kumar",
+            "group": "CSE-B",
+            "start_date": "2026-02-11",
+            "end_date": "2026-02-18"
+        },
+        {
+            "faculty": "Priya Verma",
+            "group": "CSE-A",
+            "start_date": "2026-03-22",
+            "end_date": "2026-03-30"
+        },
+        {
+            "faculty": "Neha Singh",
+            "group": "CSE-A",
+            "start_date": "2026-12-23",
+            "end_date": "2027-01-05"
+        },
+        {
+            "faculty": "Neha Singh",
+            "group": "CSE-C",
+            "start_date": "2026-12-23",
+            "end_date": "2027-01-05"
+        },
+        {
+            "faculty": "tia",
+            "group": "CSE-B",
+            "start_date": "2026-01-10",
+            "end_date": "2026-01-15"
+        },
+        {
+            "faculty": "Aman Kumar",
+            "group": "CSE-B",
+            "start_date": "2026-02-10",
+            "end_date": "2026-02-15"
+        }
+    ]
+}
